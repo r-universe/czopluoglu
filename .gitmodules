@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EstCRM"]
+	path = EstCRM
+	url = https://github.com/cran/EstCRM
+	shallow = true
+	registered = true
 [submodule "itemanalysis"]
 	path = itemanalysis
 	url = https://github.com/czopluoglu/itemanalysis
